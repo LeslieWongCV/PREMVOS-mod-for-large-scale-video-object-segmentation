@@ -4,7 +4,8 @@ You can find the orginal PReMVOS paper and code [here](https://github.com/Jonath
 ## PReMVOS modification for large-scale video object segmentation.
 
 It has a good performance on video object segmentation, better fits the large-scale video segmentation and achieved an accuracy of 69%, ranked 9th in the [The 2nd Large-scale Video Object Segmentation Challenge Workshop in conjunction with ICCV2019, Seoul, Korea](https://youtube-vos.org/challenge/2019/)
-![Result](data/003.jpg)
+
+![Result](data/003.jpeg)
 
 ## Modified Verision in Brain MRI Segmentation
 
