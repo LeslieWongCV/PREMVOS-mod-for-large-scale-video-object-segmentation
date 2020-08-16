@@ -1,11 +1,16 @@
 # PReMVOS-mod-for-large-scale-video-object-segmentation
 You can find the orginal PReMVOS paper and code [here](https://github.com/JonathonLuiten/PReMVOS)
 
-##PREMVOS modification for large-scale video object segmentation.
-
-![Result](data/result_PReM.jpg)
+## PReMVOS modification for large-scale video object segmentation.
 
 It has a good performance on video object segmentation, better fits the large-scale video segmentation and achieved an accuracy of 69%, ranked 9th in the [The 2nd Large-scale Video Object Segmentation Challenge Workshop in conjunction with ICCV2019, Seoul, Korea](https://youtube-vos.org/challenge/2019/)
+![Result](data/003.jpg)
+
+## Modified Verision in Brain MRI Segmentation
+
+
+It could be also used in medical area like MRI Segmentaion, and has a satifying performance when segmentation the different tissue in human brain.
+![MRI Result](data/002.jpeg)
 
 ## Citation
 If you use this code, please consider citing the following papers:
